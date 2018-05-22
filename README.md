@@ -23,7 +23,7 @@ Register as a new traveler and simply provide basic information about the locati
 The Ambassador side of the app provides the user with all the tools needed to provide great choices for their assigned traveler(s). Integrated with the Yelp API the user can quickly access the basic information for a business and then use that information to build a customized "suggestion card" for their traveler. With drag and drop functionality and a clean, easy-to-use interface, being a great ambassador doesn't require the user to be a tech expert.
 
 ## Visit the App
-A deployed version of the app is available at: https://lucid-hawking-cc5746.netlify.com/
+A deployed version of the app is available at: https://pley.nielsendb.com
 
 Feel free to register as a Traveler and/or Ambassador. Or, you can use the following credentials:
 
