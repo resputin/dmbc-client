@@ -32,8 +32,8 @@ username: mark@summers.com
 password: doubledare
 
 ###### Ambassador Login
-username: bob@bob.com
-password: thepriceisright
+username: example@example.com
+password: 12345678
 
 ## Technologies Used
 Pley is a full-stack, full responsive, web-application using the create-react-app package, Node, Mongo, and Express.
