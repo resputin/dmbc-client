@@ -37,8 +37,7 @@ password: 12345678
 
 ## Technologies Used
 Pley is a full-stack, full responsive, web-application using the create-react-app package, Node, Mongo, and Express.
-
-Heroku and Netlify were used for deployment
+Nginx and Ubuntu 16.4 were used for this deployment at Digital Ocean
 
 ## NPM Packages
 [carousel](https://www.npmjs.com/package/carousel)
