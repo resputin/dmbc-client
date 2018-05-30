@@ -28,8 +28,8 @@ A deployed version of the app is available at: https://pley.nielsendb.com
 Feel free to register as a Traveler and/or Ambassador. Or, you can use the following credentials:
 
 ###### Traveler Login
-username: mark@summers.com 
-password: doubledare
+username: bob@bob.com
+password: thepriceisright
 
 ###### Ambassador Login
 username: example@example.com
